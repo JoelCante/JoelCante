@@ -1,16 +1,23 @@
-### Hi there 👋
+# Bienvenido a mi perfil 👋
 
-<!--
-**JoelCante/JoelCante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy Joel Canté, estudiante de ISC.
 
-Here are some ideas to get you started:
+-⚡Introduciendome al mundo del desarrollo Web, principalmente en el área Front-end.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 
+
+### Lenguajes:
+
+- HTML 
+- CSS 
+- JavaScript
+- PHP
+
+### Otras herramientas:
+
+...
+
+  
+
+
+
